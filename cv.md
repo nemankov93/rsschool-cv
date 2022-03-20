@@ -4,6 +4,7 @@
 * **Phone:** +375 29 118-44-48
 * **Email:** nemankov93@mail.ru
 * **GitHub:** [nemankov93](https://github.com/nemankov93 "Описание")
+* **Telegram:** [nemankov93](https://t.me/nemankov93 "Описание")
 ## About me
 I want to study in RS-School and become a front-end developer.
 ## Skills
